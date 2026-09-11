@@ -21,7 +21,7 @@
 
 
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.image-dent.com/">
+<link rel="canonical" href="https://www.image-dent.com/privacy.php">
 <!-- Language -->
 <meta http-equiv="content-language" content="en, ar">
 <!-- Hreflang -->
